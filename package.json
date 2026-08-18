@@ -1,9 +1,9 @@
 {
   "name": "swiggy",
   "version": "1.0.0",
- "scripts": {
+"scripts": {
   "dev": "parcel src/index.html",
-  "build": "parcel build src/index.html --public-url /Swiggy/"
+ "build": "parcel build src/index.html"
 },
   "keywords": [],
   "author": "",
